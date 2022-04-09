@@ -34,7 +34,7 @@ This is how we do it:
 * we retrieve the hash and store it in blockchain.
 * For a particular record access is given only to the doctor and patient.
 
-_To know more you can refer to this [Documentation](https://drive.google.com/file/d/113xg3PVnMp-CbSQJBPuubD4ILlTGW8F7/view?usp=sharing)_
+_To know more you can refer to this [Documentation](https://docs.google.com/document/d/1x1J-njv7IuC7zqCf23ce-omkNoZ5NlAL/edit?usp=sharing&ouid=107240133449077051757&rtpof=true&sd=true)_
 
 ### Built With
 Major tools:
@@ -56,7 +56,7 @@ Major tools:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dheeru12/Securing-health-records-using-blockchain.git
+   git clone https://github.com/mahipraneeth/Securing-health-records-using-blockchain.git
    ```
 2. Install NPM packages
    ```sh
@@ -71,8 +71,6 @@ Major tools:
 <!-- CONTACT -->
 ## Contact
 
-Dheeraj Kumar - [@LinkedIn](www.linkedin.com/in/dheer12) - dheerajkumar88889999@gmail.com
+Rayi Mahi Praneeth - mahipraneeth948@gmail.com
 
-Nitish Kumar Verma - [@LinkedIn](www.linkedin.com/in/nitish-kumar-verma-3840a8188) - nitishkumarverma@karunya.edu.in
-
-Project Link: [https://github.com/dheeru12/Securing-health-records-using-blockchain](https://github.com/dheeru12/Securing-health-records-using-blockchain)
+Project Link: [https://github.com/mahipraneeth/Securing-health-records-using-blockchain](https://github.com/mahipraneeth/Securing-health-records-using-blockchain)
